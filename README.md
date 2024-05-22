@@ -1,6 +1,6 @@
 # CodeAlpha To-Do List
 
-Welcome to the CodeAlpha To-Do List project! This is a web-based application created for managing daily tasks using HTML, CSS, and JavaScript.
+Welcome to the CodeAlpha To-Do List project! This is a web-based application created for managing daily tasks using HTML, CSS, and JavaScript. 
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=livechat)](https://davishkar.github.io/CodeAlpha_TO-DO-LIST/)
 
